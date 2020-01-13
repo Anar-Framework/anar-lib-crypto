@@ -9,12 +9,12 @@ import static java.util.Arrays.copyOfRange;
 /**
  * Crypto Util for common methods in various module
  */
-public class CryptoUtil {
+public class CryptoUtility {
 
 	/**
 	 * Private Constructor for this class
 	 */
-	private CryptoUtil() {
+	private CryptoUtility() {
 
 	}
 
